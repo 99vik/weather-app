@@ -1,9 +1,9 @@
-node_modules/
+node_modules
 
-.vscode/
+.vscode
 
 .eslintignore
 
-.eslint.json
+.eslintrc.json
 
-prettierrc.json
+.prettierrc.json
