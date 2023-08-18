@@ -11,3 +11,5 @@ cityInput.addEventListener('keypress', (event) => {
     getCityData(cityInput.value);
   }
 });
+
+getCityData('london');
