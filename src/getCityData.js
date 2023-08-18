@@ -5,6 +5,7 @@ export default async function getCityData(cityName) {
   if (responseData.error) {
     console.log(responseData.error.message);
   } else {
+    cityInput.value = '';
     console.log(responseData);
   }
 }
